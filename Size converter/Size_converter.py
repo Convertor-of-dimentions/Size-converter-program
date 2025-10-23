@@ -9,7 +9,8 @@ print("---------------------------------------------")
 
 choice = input(">> Choose an option (0-4): ").strip()
 
-     
 print(">> Bye-bye . . .")
 print("---------------------------------------------")
 print("=============================================")
+
+value = float(input(">> Enter the value: ").replace(",", "."))
