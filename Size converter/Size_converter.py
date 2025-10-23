@@ -31,7 +31,6 @@ def main():
         except ValueError:
             
             continue
-
         if choice == 1:
             
         elif choice == 2:
@@ -39,3 +38,6 @@ def main():
         elif choice == 3:
           
         elif choice == 4:
+
+if __name__ == "__main__":
+    main()
