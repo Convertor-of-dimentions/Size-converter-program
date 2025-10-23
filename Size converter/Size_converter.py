@@ -8,9 +8,13 @@ print(">> 0 - EXIT.")
 print("---------------------------------------------")
 
 choice = input(">> Choose an option (0-4): ").strip()
-
+      
 print(">> Bye-bye . . .")
 print("---------------------------------------------")
 print("=============================================")
 
 value = float(input(">> Enter the value: ").replace(",", "."))
+          
+print(">> ERR . . . Value must be positive and non-zero.")
+print(">> ERR . . . Invalid option. Try again.")
+print(">> ERR . . . Please enter only a number.")
