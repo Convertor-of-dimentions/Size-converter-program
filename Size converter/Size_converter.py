@@ -6,3 +6,8 @@ print(">> 3 - Convert millimeters -> centimeters.")
 print(">> 4 - Convert centimeters -> millimeters.")
 print(">> 0 - EXIT.")
 print("---------------------------------------------")
+
+choice = input(">> Choose an option (0-4): ").strip()
+
+      
+    
