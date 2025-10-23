@@ -1,0 +1,8 @@
+print("=========== SIZE CONVERTER SYSTEM ===========")
+print("---------------------------------------------")
+print(">> 1 - Convert centimeters -> inches.")
+print(">> 2 - Convert inches -> centimeters.")
+print(">> 3 - Convert millimeters -> centimeters.")
+print(">> 4 - Convert centimeters -> millimeters.")
+print(">> 0 - EXIT.")
+print("---------------------------------------------")
