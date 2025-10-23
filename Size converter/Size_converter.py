@@ -6,3 +6,6 @@ def inches_to_cm(inches):
 
 def mm_to_cm(mm):
     return mm / 10
+
+def cm_to_mm(cm):
+    return cm * 10
